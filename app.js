@@ -3,5 +3,5 @@
 
 
 
-    console.log('This is a github demo');
+    console.log('This is a github demo, and I just added text!');
 }());
